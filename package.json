@@ -39,7 +39,7 @@
     "errorhandler": "1.5.1",
     "express": "4.17.1",
     "express-fileupload": "^0.4.0",
-    "express-session": "^1.15.6",
+    "cookie-session": "^2.0.0",
     "flat": "^2.0.1",
     "gridfs-stream": "^1.1.1",
     "json2csv": "^3.7.1",
